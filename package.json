@@ -1,7 +1,7 @@
 {
-  "name": "proxy-tjn",
+  "name": "proxy-amkw",
   "version": "1.0.0",
-  "description": "",
+  "description": "hrr38-sdc-team3-amkwproxy",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,5 +12,9 @@
   "devDependencies": {
     "body-parser": "^1.19.0",
     "express": "^4.17.1"
+  },
+  "dependencies": {
+    "newrelic": "^5.10.0",
+    "nodemon": "^1.19.1"
   }
 }
